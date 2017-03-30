@@ -1,2 +1,2 @@
-# side-project
-on going side project. HTML5/CSS/JS
+# portfolio 
+building portfolio page using  HTML5/bootstrap/CSS/JS
