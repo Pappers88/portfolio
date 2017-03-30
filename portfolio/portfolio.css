@@ -1,0 +1,103 @@
+ 
+body{
+
+  position: relative;
+}
+
+
+ #hw{
+
+text-align: center;
+font-family:  'Federo', sans-serif;
+margin-top: 250px;
+
+}
+
+ #phw{
+
+text-align: center;
+font-family:  'Federo', sans-serif;
+font-size: 25px;
+
+
+ }
+
+ #rowhme{
+
+margin-top: 50px;
+
+
+ }
+
+ .hmep{
+
+text-align: center;
+font-family:  'Federo', sans-serif;
+font-size: 25px;
+
+ }
+
+ 
+#myNavbar{
+
+font-family:  'Federo', sans-serif;
+font-size: 20px;
+color: black;
+
+
+}
+
+h1 span {
+
+  background-color: grey;
+    color:#fff;
+    padding: 5px;
+    margin: 5px;
+
+}
+
+p span {
+
+  background-color: grey;
+    color:#fff;
+    padding: 5px;
+    margin: 5px;
+
+}
+
+.am{
+
+text-align: center;
+font-family:  'Federo', sans-serif;
+
+}
+
+#amimg{
+
+text-align: center;
+margin-top: 50px;
+margin-bottom: 50px;
+
+}
+
+ 
+
+#Home {
+  padding-top:50px; background: url("https://static.pexels.com/photos/174/coffee-apple-iphone-laptop.jpg") no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  height: 900px;
+  text-align: center;
+  
+  }
+#About {padding-top:50px; margin-bottom: 50px; background-color: white; height: 900px;}
+#Skills {padding-top:50px; background-color: #ff9800; height: 900px;}
+#Work {padding-top:50px; background-color: #00bcd4; height: 900px;}
+#Contact {padding-top:50px; background-color: #009688; height: 900px;}
+
+
+
+
+
