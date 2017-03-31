@@ -47,6 +47,19 @@ color: black;
 
 }
 
+.navbar .navbar-nav {
+  display: inline-block;
+  float: none;
+  vertical-align: top;
+}
+
+.navbar .navbar-collapse {
+  text-align: center;
+}
+
+
+
+
 h1 span {
 
   background-color: grey;
@@ -72,6 +85,26 @@ font-family:  'Federo', sans-serif;
 
 }
 
+
+
+#skls1{
+
+  margin-top: 50px;
+  margin-bottom: 50px;
+  text-align: center;
+  font-family:  'Federo', sans-serif
+}
+
+.wrk{
+
+text-align: center;
+font-family:  'Federo', sans-serif;
+
+
+}
+
+
+
 #amimg{
 
 text-align: center;
@@ -80,22 +113,66 @@ margin-bottom: 50px;
 
 }
 
- 
+.cmnsn{
+
+font-family: 'Satisfy', cursive;
+font-size: 60px;
+text-align: center;
+margin-top: 100px;
+
+
+}
+
+#spn{
+
+background-color: orange;
+    color: black;
+    padding: 5px;
+    margin: 5px;
+
+ }
 
 #Home {
-  padding-top:50px; background: url("https://static.pexels.com/photos/174/coffee-apple-iphone-laptop.jpg") no-repeat center center fixed; 
+  padding-top:50px; 
+  background: url("https://static.pexels.com/photos/238116/pexels-photo-238116.jpeg") no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
   height: 900px;
-  text-align: center;
-  
+
   }
-#About {padding-top:50px; margin-bottom: 50px; background-color: white; height: 900px;}
-#Skills {padding-top:50px; background-color: #ff9800; height: 900px;}
-#Work {padding-top:50px; background-color: #00bcd4; height: 900px;}
-#Contact {padding-top:50px; background-color: #009688; height: 900px;}
+
+#About {
+  padding-top:50px; 
+  margin-bottom: 50px; 
+ background-color: white;
+ height: 900px;
+}
+
+#Skills {
+  padding-top:50px; 
+  background-color: #8B008B;
+  height: 900px;
+}
+
+#Work {
+  padding-top:50px; 
+  background: url("https://static.pexels.com/photos/109088/pexels-photo-109088.jpeg") no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+
+  height: 900px;
+}
+
+#Contact {
+  padding-top:50px; 
+  background-color: white;
+
+  height: 900px;
+}
 
 
 
